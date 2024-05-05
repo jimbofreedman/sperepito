@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=sperepito
+POSTGRES_USER=EILUJPFRvoOqcwsPFYQHFJBkVYOhOdZF
+POSTGRES_PASSWORD=J5J3TkfV8I0gg9xkIAlzBTlJ52HWTRbU0FsuWtaaj3qH19YfIqWJbsSV3auHh6bg
